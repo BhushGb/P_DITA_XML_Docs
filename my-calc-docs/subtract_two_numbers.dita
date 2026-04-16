@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="subtract_two_numbers">
+    <title>Subtract two numbers</title>
+    <shortdesc>Get subtraction result using the CALC app.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This task explains how to subtract one number from another using the CALC app.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the minus (-) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the equals (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_x1p_zt3_y3c">The result from the subtraction is displayed on the
+            screen.</result>
+        <example id="example_twh_b53_y3c">
+            <title>Subtracting two numbers</title>
+            <p>To subtract two numbers, enter 7 − 3. The result is 4.</p>
+            <p>If the first number is smaller than the second number (for example, 3 − 7), the
+                result is a negative number. In this case, −4 is displayed on the screen.</p>
+        </example>
+    </taskbody>
+</task>

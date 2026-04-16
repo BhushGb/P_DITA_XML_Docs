@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="overview">
+    <title>Overview</title>  
+    <shortdesc>CALC is a calculator app. It allows end users to perform arithmentic operations on
+        two decimal numbers.</shortdesc>
+    <prolog>
+        <author>Bhushan Mapari (bhushanmapari19@gmail.com)</author>
+    </prolog>
+    <conbody>
+        <section id="section_bpt_gq2_y3c">
+            <title>Supported Operations:</title>
+            <p>
+                <ul id="ul_emq_hq2_y3c">
+                    <li>Addition</li>
+                    <li>Subtraction</li>
+                    <li>Multiplication</li>
+                    <li>Division</li>
+                </ul>
+            </p>
+            <p>The application accepts two decimal inputs, applies the selected arithmetic
+                operation, and returns the result.</p>
+                <note outputclass="disclaimer" id="note_ykx_4kj_y3c">
+                    <p>This user guide for a sample CALC application is intended for demonstration
+                    purposes only.</p>
+                </note>
+        </section>
+    </conbody>
+</concept>

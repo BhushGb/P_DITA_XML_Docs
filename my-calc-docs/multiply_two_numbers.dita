@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="multiply_two_numbers">
+    <title>Multiply two numbers</title>
+    <shortdesc>Get multiplication result using the CALC app.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This task explains how to multiply two numbers using the CALC app.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the multiplication (×) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the equals (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_kzh_4x3_y3c">The result from the multiplication is displayed on the
+            screen.</result>
+        <example id="example_plg_5x3_y3c">
+            <title>Multiplying two numbers</title>
+            <p>To mulitply two numbers, enter 2 × 3. The result is 6.</p>
+        </example>
+    </taskbody>
+</task>

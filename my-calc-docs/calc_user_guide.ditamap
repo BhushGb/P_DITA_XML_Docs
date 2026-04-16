@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>CALC User Guide</title>
+    <topicref href="overview.dita"/>
+    <topichead navtitle="Addition">
+        <topicref href="add_two_numbers.dita"/>
+    </topichead>
+    <topichead navtitle="Subtraction">
+        <topicref href="subtract_two_numbers.dita"/>
+    </topichead>
+    <topichead navtitle="Multiplication">
+        <topicref href="multiply_two_numbers.dita"/>
+    </topichead>
+    <topichead navtitle="Division">
+        <topicref href="divide_two_numbers.dita"/>
+    </topichead>
+</map>

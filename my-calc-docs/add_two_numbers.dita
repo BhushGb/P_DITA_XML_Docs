@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="add_two_numbers">
+    <title>Add two numbers</title>
+    <shortdesc>Get addition result using the CALC app.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This task explains how to add two numbers using the CALC app.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the plus (+) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the equals (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_k2x_ft3_y3c">The result from the addition is displayed on the
+            screen.</result>
+        <example id="example_drk_gt3_y3c">
+            <title>Adding two numbers</title>
+            <p>To add two numbers, enter 3 + 5. The result is 8.</p>
+        </example>
+    </taskbody>
+</task>

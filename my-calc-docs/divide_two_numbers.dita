@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="divide_two_numbers">
+    <title>Divide two numbers</title>
+    <shortdesc>Get division result using the CALC app.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This task explains how to divide two numbers using the CALC app.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the division (÷) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the equals (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_dzy_5y3_y3c">
+            <p>The result from the division is displayed on the screen.</p>
+        </result>
+        <example id="example_sjs_vy3_y3c">
+            <title>Dividing two numbers</title>
+            <p>To divide two numbers, enter 6 ÷ 3. The result is 2.</p>
+            <note id="note_e3f_1z3_y3c">
+                <p>You cannot divide a number by zero. The CALC app displays an error when the
+                    second number is 0.</p>
+            </note>
+        </example>
+    </taskbody>
+</task>

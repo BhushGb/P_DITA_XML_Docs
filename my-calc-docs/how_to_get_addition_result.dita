@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_get_addition_result">
+    <title>How to get addition result?</title>
+    <shortdesc/>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the plus (+) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Select the equal (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_jql_k43_y3c">The result from the addition is displayed on the
+            screen.</result>
+        <example id="example_hlt_2p3_y3c">
+            <title/>
+            <p>To add two numbers, enter the first number (for example, 2). Select the plus (+)
+                button. Enter the second number (for example, 3). Select the equals (=) button. The
+                result (5) is displayed on the screen.</p>
+        </example>
+    </taskbody>
+</task>
