@@ -11,7 +11,3 @@ The project is created to showcase the structure and workflow of DITA-based tech
 ## Tools Used
 
 - Oxygen XML Editor
-
-## Note
-
-This is a sample project developed solely for educational and demonstration purposes.
