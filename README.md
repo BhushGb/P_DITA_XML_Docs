@@ -1,4 +1,4 @@
-# P_DITA_XML_Docs : CALC Application – DITA XML Documentation Project
+# CALC User Guide – DITA XML Documentation Project
 
 ## Project Overview
 
